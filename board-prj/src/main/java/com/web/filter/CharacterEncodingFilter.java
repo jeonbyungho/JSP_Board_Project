@@ -17,7 +17,6 @@ public class CharacterEncodingFilter implements Filter{
 			throws IOException, ServletException {
 		
 		long time = System.currentTimeMillis();
-		
 		request.setCharacterEncoding("UTF-8");
 		response.setContentType("UTF-8");
 		chain.doFilter(request, response);
