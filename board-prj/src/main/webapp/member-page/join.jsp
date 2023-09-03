@@ -15,7 +15,8 @@
 		<h2>회원가입</h2>
 	</div>
 	
-	<form action="${pageContext.request.contextPath}/member/join" method="post" name="join-form" enctype="multipart/form-data">
+	<form action="${pageContext.request.contextPath}/member/join" method="post"
+			name="join-form" enctype="multipart/form-data">
 		<div>
 			<label for="userid">
 				<strong>아이디</strong>
