@@ -5,7 +5,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>회원가입 - 환영합니다.</title>
+	<title>회원가입 · 환영합니다.</title>
 </head>
 
 <body>
